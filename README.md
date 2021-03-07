@@ -2,10 +2,18 @@
 
 
 ###  📖
-![html badge](https://img.shields.io/badge/HTML-E34F26?style=style-square&logo=HTML5&logoColor=white)
-![css badge](https://img.shields.io/badge/CSS-1572B6?style=style-square&logo=CSS3&logoColor=white)
-![javascript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=style-square&logo=JavaScript&logoColor=black)
-![vue badge](https://img.shields.io/badge/vue-61DAFB?style=style-square&logo=vue&logoColor=black)
+
+<code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288770-3421aa80-cd2f-11ea-9972-ab7e1ac2b89d.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288764-31bf5080-cd2f-11ea-9291-24a90a43acc9.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/47877911/88287732-af825c80-cd2d-11ea-9a56-bf85549e3fc4.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288767-33891400-cd2f-11ea-81cd-b6a089ab4a24.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288313-8e6e3b80-cd2e-11ea-89d2-743fd19db946.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288989-84990800-cd2f-11ea-8534-fb289c80dd4e.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288497-d42b0400-cd2e-11ea-819f-e2fa50f5e60b.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288382-aa71dd00-cd2e-11ea-8fc2-a1f7ae93de63.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 ###  🔗
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style-square&logo=github&link=https://maltesers.tistory.com/)](https://maltesers.tistory.com/) 
